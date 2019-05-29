@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Georgi\source\repos\kursova_rabota\kursova_rabota\Source.c(38): warning C4553: '==': result of expression not used; did you intend '='?
+  StructListMain.c
+  Generating Code...
+  kursova_rabota.vcxproj -> C:\Users\Georgi\source\repos\kursova_rabota\Debug\kursova_rabota.exe
